@@ -38,7 +38,11 @@ $ cmake .. && make
 ```
    * On windows, you may need to run: `cmake .. -G "Unix Makefiles" && make`
 
-4. Run it: `./ExtendedKF `
+4. Run it
+
+```
+$ ./ExtendedKF 
+```
 
 ## Usage
 
