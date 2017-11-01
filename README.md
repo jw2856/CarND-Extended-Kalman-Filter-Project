@@ -31,7 +31,7 @@ $ git clone git@github.com:jw2856/CarND-Extended-Kalman-Filter-Project.git
 $ mkdir build && cd build
 ```
 
-3. If you want to compile:
+3. Compile:
 
 ```
 $ cmake .. && make
